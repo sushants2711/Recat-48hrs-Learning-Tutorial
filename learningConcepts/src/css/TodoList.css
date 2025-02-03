@@ -1,0 +1,79 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    text-transform:capitalize;
+    text-decoration-line:underline;
+    
+}
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+input {
+    font-size: 24px;
+    border-radius: 10px;
+    width: 400px;
+    height: 48px;
+    padding: 8px 12px;
+    transition: all 0.3s ease-in-out;
+    border: 2px solid gray;
+}
+
+div form button {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 24px;
+    border-radius: 10px 20px;
+    margin-left: 50px;
+}
+
+input:focus {
+    outline: none;
+    border-color: blue;
+    box-shadow: inset 1px 1px 4px 2px rgba(0, 0, 255, 0.6); 
+    border: 3px solid blue;
+}
+
+button {
+    background-color: lightblue;
+    border: 2px solid blue;
+    transition: transform 0.9s;
+    transform-style: preserve-3d;
+}
+
+button:hover {
+  transform: rotateY(45deg); 
+}
+
+.listP {
+    font-size: 28px;
+    text-decoration-line: underline;
+    font-weight: 700;
+    font-family: Geneva, Verdana, sans-serif;
+    margin-bottom: 20px;
+}
+
+li {
+    font-size: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.noItem {
+    text-decoration-line: line-through;
+    text-decoration-color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration-thickness: 3px;
+}
+ */

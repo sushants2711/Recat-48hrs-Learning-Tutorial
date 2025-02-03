@@ -1,0 +1,38 @@
+/* div{
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+div p {
+    font-size: 30px;
+}
+div p span {
+    font-size: 40px;
+    padding-left: 10px;
+    font-weight: 700;
+    color: blue;
+}
+
+.btn-add {
+    display: flex;
+    flex-direction: row; 
+    gap: 10px; 
+}
+
+button {
+    font-size: 26px;
+    background-color: burlywood;
+    padding: 10px 25px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background-color: cornsilk;
+    border: 1px solid black;
+} */
